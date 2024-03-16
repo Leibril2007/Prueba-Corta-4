@@ -22,12 +22,17 @@
     border-radius: 1rem;
     padding: 1rem;
     color: #1A2434;
-    /* font-weight: 400; */
     color: #576170;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.Email{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .JoinNow{

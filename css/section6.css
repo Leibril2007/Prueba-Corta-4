@@ -16,6 +16,10 @@
 
 h6{
     font-weight: 600;
+
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .hBrowse{
@@ -33,9 +37,13 @@ h6{
 
 .ReadMore{
     color: #5e6a7e;
-    text-align: center;
     margin-top: 1rem;
     font-weight: 800;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
     
 }
 
