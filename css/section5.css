@@ -1,0 +1,39 @@
+.sec5{
+    background-color: #EBEFF6;
+}
+
+.pStudents{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.hStudents{
+    background-color: #FFFFFF;
+    padding: 1.2rem;
+    border-radius: 1rem;
+}
+
+.nStudents{
+    display: flex;
+}
+
+.bisnStudents{
+    margin-left: 1rem;
+    line-height: 1.5rem;
+}
+
+h5{
+    font-weight: 500;
+}
+
+.calificacion{
+    margin-top: 0.5rem;
+}
+
+p{
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #1A2434;
+}

@@ -1,0 +1,89 @@
+/* .sec2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(2,1fr);
+}
+
+.cuad-1{
+    display: grid;
+    grid-column-start: 1;
+    grid-column-end: 5;
+
+    width: 20rem;
+    background-color: lightcoral;
+
+}
+
+.whyChoose{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+
+    font-size: 1rem;
+    color: #1A2434;
+    font-weight: 300;
+} */
+
+.sec2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cuad-1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.raya{
+    width: 3rem;
+    height: 0.2rem;
+    background-color: red;
+    position: absolute;
+}
+
+.whyChoose{
+    margin-bottom: 0.5rem;
+
+    font-size: 1rem;
+    color: #1A2434;
+    font-weight: 300;
+}
+
+.bestLearning{
+    font-weight: 550;
+    color: #1A2434;
+}
+
+.padreCuadros{
+    margin-top: 5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.iconSec2{
+    width: 4rem;
+    height: 4rem;
+}
+
+.titCuad{
+    padding-top: 2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #1A2434;
+}
+
+.parraCuad{
+    font-size: 1rem;
+    font-weight: 250;
+    padding-top: 2rem;
+}
+
+.padreLearnMore{
+    padding-top: 2rem;  
+    font-size: 0.8rem;
+    color: #1A2434;
+    font-weight: 900;
+}
