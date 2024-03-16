@@ -11,25 +11,21 @@ header{
 }
 
 .menu{
-    /* background-color: lightcoral; */
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     gap: 2rem;
-    /* justify-content: center; */
 }
 .botonsMen {
     font-size: 1.2rem;
     text-decoration: none;
     color: #1A2434;
-    /* background-color: lightblue; */
     margin-right: 3rem;
 }
 
 .logo{
     display: flex;
-    /* margin-left: 5rem; */
 }
 .logo img{
     height: 2.5rem;
@@ -37,7 +33,6 @@ header{
 
 a:hover{
     color: #6c727a;
-    /* transition: 2s;s */
 }
 
 /* SEARCH */

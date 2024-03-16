@@ -1,23 +1,95 @@
 .pJoin{
-    height: 20rem;
+    height: 15rem;
     background-color: #A4074D;
+    padding: 4rem;
+
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    
+}
+
+.joinTitle{
+    width: 25rem;
+    color: #FFFFFF;
+    font-size: 2rem;
 }
 
 .nameEmail{
     width: 30rem;
     height: 5rem;
-    background-color: #FFFFFF;
+    background-color: #fcc9e0;
     border-radius: 1rem;
+    padding: 1rem;
+    color: #1A2434;
+    /* font-weight: 400; */
+    color: #576170;
 
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .JoinNow{
-    width: 7rem;
-    /* height: 3rem; */
+    width: 8rem;
+    height: 3rem;
+    border-radius: 1rem;
     background-color: #1A2434;
+    color: #FFFFFF;
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* PARTE 2 FOOTER */
+.pDigilearn{
+    background-color: #1A2434;
+    padding: 4rem;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.nDigi{
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+
+    color: #FFFFFF;
+    gap: 0.5rem;
+}
+.logoDigi{
+    height: 2rem;
+}
+
+.parraDigi{
+    color: #bfbdbd;
+    width: 20rem;
+    line-height: 2rem;
+}
+
+.titDigi{
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.titDigi2{
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+.digiVar{
+    color: #bfbdbd;
+    line-height: 2rem;
+    font-weight: 200;
+
+}
+
+.DigisTit{
+    margin-top: 2rem;
 }
 
